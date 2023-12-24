@@ -10,6 +10,8 @@
   "author": "Natalia Kolesnychenko",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^13.6.1"
+    "@cypress/browserify-preprocessor": "^3.0.2",
+    "cypress": "^13.6.1",
+    "eslint-plugin-cypress": "^2.15.1"
   }
 }
