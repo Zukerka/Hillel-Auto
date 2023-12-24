@@ -1,0 +1,12 @@
+{
+  "name": "hillel-auto",
+  "version": "1.0.0",
+  "description": "hw11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "cypress:open": "cypress open"
+  },
+  "author": "Natalia Kolesnychenko",
+  "license": "ISC"
+}
