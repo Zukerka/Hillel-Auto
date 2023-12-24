@@ -4,9 +4,12 @@
   "description": "hw11",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1", 
+    "test": "echo \"Error: no test specified\" && exit 1",
     "cypress:open": "cypress open"
   },
   "author": "Natalia Kolesnychenko",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.1"
+  }
 }
